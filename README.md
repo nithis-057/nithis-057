@@ -1,43 +1,64 @@
 # 👋 Hi there! Welcome to my GitHub Profile
 
 ## 🚀 About Me
-[insert here]
+
+- 🎓 Computer Science student from Chennai
+- 💻 Skills: Python 🐍 | Java ☕ | SwiftUI 🍏 | C 💡
+- 📘 Currently Learning: C++ ➕➕ and Machine Learning 🤖
+- ⚽ I love to play football
+- 💡 Hobbies: Exploring tech, gadgets, and new trends
 
 ## 💼 What I'm Currently Working On
-🔭 [insert here]
+🔭 
+[
+insert here
+]
 
 ## 🌱 What I'm Currently Learning
-[insert here]
+[
+insert here
+]
 
 ## 👯 Looking to Collaborate On
-[insert here]
+[
+insert here
+]
 
 ## 🤔 Looking for Help With
-[insert here]
+[
+insert here
+]
 
 ## 💬 Ask Me About
-[insert here]
+[
+insert here
+]
 
 ## 📫 How to Reach Me
-[insert here]
+[
+insert here
+]
 
 ## 😄 Pronouns
-[insert here]
+[
+insert here
+]
 
 ## ⚡ Fun Fact
-[insert here]
+[
+insert here
+]
 
 ---
 
 ### 🛠️ Technologies & Tools
-[insert here]
+[
+insert here
+]
 
 ### 📊 GitHub Stats
-[insert here]
+[
+insert here
+]
 
 ### 🎯 Goals for 2025
-[insert here]
-
----
-
-💡 *Feel free to explore my repositories and reach out if you'd like to collaborate!*
