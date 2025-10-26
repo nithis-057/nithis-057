@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi there! Welcome to my GitHub Profile
 
-<!--
-**nithis-057/nithis-057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+[insert here]
 
-Here are some ideas to get you started:
+## 💼 What I'm Currently Working On
+🔭 [insert here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Currently Learning
+[insert here]
+
+## 👯 Looking to Collaborate On
+[insert here]
+
+## 🤔 Looking for Help With
+[insert here]
+
+## 💬 Ask Me About
+[insert here]
+
+## 📫 How to Reach Me
+[insert here]
+
+## 😄 Pronouns
+[insert here]
+
+## ⚡ Fun Fact
+[insert here]
+
+---
+
+### 🛠️ Technologies & Tools
+[insert here]
+
+### 📊 GitHub Stats
+[insert here]
+
+### 🎯 Goals for 2025
+[insert here]
+
+---
+
+💡 *Feel free to explore my repositories and reach out if you'd like to collaborate!*
