@@ -15,7 +15,6 @@
 ## 🌱 What I'm Currently Learning
 - C++ fundamentals and intermediate concepts
 - Machine Learning basics, models and applications
-- Skincare science for oily and sensitive skin
 
 ## 👯 Looking to Collaborate On
 - Web and Android development projects
