@@ -1,4 +1,5 @@
 # 👋 Hi there! Welcome to my GitHub Profile
+
 ## 🚀 About Me
 - 🎓 Computer Science student from Chennai
 - 💻 Skills: Python 🐍 | Java ☕ | SwiftUI 🍏 | C 💡
@@ -26,18 +27,10 @@
 - DevOps and cloud platforms
 - Best practices in database design
 
-## 💬 Ask Me About
-- Java and Python programming
-- Football facts and history
-- Tech shopping tips and reviews
-- Anime recommendations
+## 📬 Contact Me
 
-## 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/nithispandiyan/
-- Email: nithispandiyan24110332@snuchennai.edu.in
-
-## 😄 Pronouns
-- He/him
+[![Mail](https://img.shields.io/badge/Mail-green?logo=gmail&logoColor=white)](mailto:nithispandiyan24110332@snuchennai.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithispandiyan/)
 
 ## ⚡ Fun Fact
 - Can solve a Rubik's Cube
@@ -56,4 +49,7 @@
 ### 🎯 Goals for 2025
 - Master C++ and Machine Learning
 - Successfully publish an open-source football dashboard
-- Get global tech certifications
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=nithis-057)
