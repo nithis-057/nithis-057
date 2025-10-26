@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 - Recently contributed to open source repos
 - Building an education-focused Java project
-- Football analytics and anime projects on the way
+
 
 ### 🎯 Goals for 2025
 - Master C++ and Machine Learning
